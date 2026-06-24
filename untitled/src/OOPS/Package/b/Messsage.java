@@ -1,4 +1,4 @@
-package Package.b;
+package OOPS.Package.b;
 
 public class Messsage {
     public static void main(String[] args) {

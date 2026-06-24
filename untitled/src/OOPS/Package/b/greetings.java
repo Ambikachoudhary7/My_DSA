@@ -1,6 +1,6 @@
-package Package.b;
+package OOPS.Package.b;
 
-import static Package.b.Messsage.message; // for this import statement we can access call one class method for another class
+import static OOPS.Package.b.Messsage.message; // for this import statement we can access call one class method for another class
 
 public class greetings {
     public static void main(String[] args) {

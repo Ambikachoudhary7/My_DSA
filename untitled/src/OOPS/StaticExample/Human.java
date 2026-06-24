@@ -1,4 +1,4 @@
-package StaticExample;
+package OOPS.StaticExample;
 public class Human {
     int id;
     String name;

@@ -1,4 +1,4 @@
-package StaticExample;
+package OOPS.StaticExample;
 //class Test{
 //    String name;
 //        public Test(String name){

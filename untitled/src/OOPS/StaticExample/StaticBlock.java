@@ -1,4 +1,4 @@
-package StaticExample;
+package OOPS.StaticExample;
  // intialization of static variables
 public class StaticBlock {
     static int a = 9;
